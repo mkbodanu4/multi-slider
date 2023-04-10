@@ -1,7 +1,7 @@
 {
   "name": "multi-slider",
   "description": "React component for multiple values slider (allocate values)",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "main": "lib/index.js",
   "files": [
     "src",
@@ -14,7 +14,7 @@
   "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^15.5.0"
+    "react": "^18.2.0"
   },
   "dependencies": {
     "prop-types": "^15.5.0",
