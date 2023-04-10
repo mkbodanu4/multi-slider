@@ -1,6 +1,10 @@
 {
   "name": "multi-slider",
   "description": "React component for multiple values slider (allocate values)",
+  "repository": "git://github.com/mkbodanu4/multi-slider.git",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "version": "4.1.1",
   "main": "lib/index.js",
   "files": [
@@ -11,7 +15,7 @@
     "compile": "rm -rf lib/ && babel --source-maps -d lib src",
     "prepublish": "npm run compile"
   },
-  "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
+  "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com> Bohdan Manko <bohdan@manko.pro>",
   "license": "ISC",
   "peerDependencies": {
     "react": "^18.2.0"
