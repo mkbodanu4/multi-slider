@@ -1,5 +1,5 @@
 {
-  "name": "multi-slider",
+  "name": "@mkbodanu4/multi-slider",
   "description": "React component for multiple values slider (allocate values)",
   "repository": "git://github.com/mkbodanu4/multi-slider.git",
   "publishConfig": {
